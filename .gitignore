@@ -1,0 +1,17 @@
+# --- JAVA ---
+*.class
+
+# --- IDE (VS Code / Eclipse / IntelliJ) ---
+.settings/
+.classpath
+.project
+.vscode/
+bin/
+out/
+
+# --- DADOS ---
+events.data
+
+# --- SISTEMA ---
+Thumbs.db
+.DS_Store
